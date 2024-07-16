@@ -225,8 +225,11 @@ nav ul li a{
 .features-section-img .section-title{
     color: #fff;
     line-height: 35px;
-    padding: 5px 0px ;
+    padding: 0px ;
     border: none;
+}
+.features-section-img .btn-primary{
+    padding: 18px 38px;
 }
 
 .features-section-img h2 span{
