@@ -10,6 +10,20 @@
         grid-column: span 2;
         width: 30% !important;
      }
+     .features-section{
+        grid-template-columns: repeat(1, 1fr);
+     }
+     .features-section-img{
+        text-align: center;
+    }
+    .features-section-img img{
+        width: 100%;
+        object-fit: cover;
+    }
+    .features-section-img button{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
 }
 
 
